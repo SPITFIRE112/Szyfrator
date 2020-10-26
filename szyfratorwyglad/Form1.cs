@@ -24,7 +24,25 @@ namespace szyfratorwyglad
 
         private void label1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("elo","elo");
+            MessageBoxButtons przyciski = MessageBoxButtons.YesNo;
+
+
+
+            const string message =
+        "Are you sure that you would like to close the form?";
+            const string caption = "Form Closing";
+            var result = MessageBox.Show(message, caption,
+                                         przyciski);
+
+            if (result == DialogResult.No)
+            {
+               this.Close();
+            }
+
+
+
+
+
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\bin\Debug\szyfratorwyglad.exe.config
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\bin\Debug\szyfratorwyglad.exe
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\bin\Debug\szyfratorwyglad.pdb
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.csprojAssemblyReference.cache
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.Form1.resources
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.Properties.Resources.resources
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.csproj.GenerateResource.cache
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.exe
+C:\Users\uczen\Desktop\Szyfrator\szyfratorwyglad\obj\Debug\szyfratorwyglad.pdb
